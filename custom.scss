@@ -11,16 +11,16 @@ html, body {
 }
 
 // green theme
-$primary-color: #27ae60;
-$primary-color-hover: lighten( $primary-color, 10% );
+// $primary-color: #27ae60;
+// $primary-color-hover: lighten( $primary-color, 10% );
 
 // blue theme
 // $primary-color: #3498db;
 // $primary-color-hover: lighten( $primary-color, 10% );
 
 // tomato red theme
-// $primary-color: #ea3200;
-// $primary-color-hover: lighten( $primary-color, 10% );
+$primary-color: #ea3200;
+$primary-color-hover: lighten( $primary-color, 10% );
 
 
 .fa {
