@@ -1,6 +1,8 @@
 # tomato-design
 Custom CSS for older routers running Tomato Firmware inspired by [AdvancedTomato](https://advancedtomato.com/), that are unsupported by AdvancedTomato firmware.
 
+![](http://tomato-design.dot26.sk/tomato-design-preview.png)
+
 ## Installation
 
 ### Using init script
